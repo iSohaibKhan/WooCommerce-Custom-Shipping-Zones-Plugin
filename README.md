@@ -1,4 +1,4 @@
-# WooCommerce Custom Shipping Zones Plugin
+# WooCommerce Shipping Zones (Custom)
 <p>This plugin lets you add the custom cities & states for (Currently UAE's Cities) shipping zones in WooCommerce & in future I'll be adding other cities & states worldwide.</p>
 <h2>Instructions:</h2>
 <p>Download the <b>wc-shipping-zones.zip</b> file from my repository</p>
